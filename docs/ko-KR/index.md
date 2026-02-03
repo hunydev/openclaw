@@ -97,8 +97,8 @@ WhatsApp / Telegram / Discord / iMessage (+ 플러그인)
 ## 기능 (개요)
 
 - 📱 **WhatsApp 통합** — WhatsApp Web 프로토콜용 Baileys 사용
-- ✈️ **Telegram 봇** — grammY를 통한 개인 메시지 + 그룹
-- 🎮 **Discord 봇** — channels.discord.js를 통한 개인 메시지 + 서버 채널
+- ✈️ **Telegram 봇** — grammY를 통한 DM + 그룹
+- 🎮 **Discord 봇** — channels.discord.js를 통한 DM + 서버 채널
 - 🧩 **Mattermost 봇 (플러그인)** — Bot 토큰 + WebSocket 이벤트
 - 💬 **iMessage** — 로컬 imsg CLI 통합 (macOS)
 - 🤖 **에이전트 브리지** — 도구 스트리밍과 함께 Pi (RPC 모드)
@@ -194,11 +194,11 @@ openclaw message send --target +15555550123 --message "Hello from OpenClaw"
   - [슬래시 명령어](/tools/slash-commands)
   - [다중 에이전트 라우팅](/concepts/multi-agent)
   - [업데이트 / 롤백](/install/updating)
-  - [페어링 (개인 메시지 + 노드)](/start/pairing)
+  - [페어링 (DM + 노드)](/start/pairing)
   - [Nix 모드](/install/nix)
   - [OpenClaw 어시스턴트 설정](/start/openclaw)
-  - [스킬](/tools/skills)
-  - [스킬 설정](/tools/skills-config)
+  - [Skills](/tools/skills)
+  - [Skills 설정](/tools/skills-config)
   - [워크스페이스 템플릿](/reference/templates/AGENTS)
   - [RPC 어댑터](/reference/rpc)
   - [게이트웨이 런북](/gateway)
@@ -247,7 +247,7 @@ _"우리 모두 그저 자신만의 프롬프트를 가지고 놀고 있을 뿐�
 
 ## 핵심 기여자
 
-- **Maxim Vovshin** (@Hyaxia, 36747317+Hyaxia@users.noreply.github.com) — Blogwatcher 스킬
+- **Maxim Vovshin** (@Hyaxia, 36747317+Hyaxia@users.noreply.github.com) — Blogwatcher Skills
 - **Nacho Iacovino** (@nachoiacovino, nacho.iacovino@gmail.com) — 위치 파싱 (Telegram + WhatsApp)
 
 ## 라이선스

@@ -13,15 +13,15 @@
   },
   {
     "source": "Skills",
-    "target": "스킬"
+    "target": "Skills"
   },
   {
     "source": "Skills config",
-    "target": "스킬 설정"
+    "target": "Skills 설정"
   },
   {
     "source": "Skills Config",
-    "target": "스킬 설정"
+    "target": "Skills 설정"
   },
   {
     "source": "local loopback",
@@ -41,11 +41,11 @@
   },
   {
     "source": "DMs",
-    "target": "개인 메시지"
+    "target": "DM"
   },
   {
     "source": "DM",
-    "target": "개인 메시지"
+    "target": "DM"
   },
   {
     "source": "sandboxed",
