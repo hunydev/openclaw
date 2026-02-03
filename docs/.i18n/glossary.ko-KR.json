@@ -1,0 +1,158 @@
+[
+  {
+    "source": "OpenClaw",
+    "target": "OpenClaw"
+  },
+  {
+    "source": "Gateway",
+    "target": "Gateway"
+  },
+  {
+    "source": "Pi",
+    "target": "Pi"
+  },
+  {
+    "source": "Skills",
+    "target": "Skills"
+  },
+  {
+    "source": "Skills config",
+    "target": "Skills config"
+  },
+  {
+    "source": "Skills Config",
+    "target": "Skills Config"
+  },
+  {
+    "source": "local loopback",
+    "target": "local loopback"
+  },
+  {
+    "source": "Tailscale",
+    "target": "Tailscale"
+  },
+  {
+    "source": "Getting Started",
+    "target": "시작하기"
+  },
+  {
+    "source": "Getting started",
+    "target": "시작하기"
+  },
+  {
+    "source": "DMs",
+    "target": "DM"
+  },
+  {
+    "source": "DM",
+    "target": "DM"
+  },
+  {
+    "source": "sandboxed",
+    "target": "Sandbox"
+  },
+  {
+    "source": "Sandboxed",
+    "target": "Sandbox"
+  },
+  {
+    "source": "Auth: where it lives (important)",
+    "target": "인증: 저장 위치 (중요)"
+  },
+  {
+    "source": "agent",
+    "target": "Agent"
+  },
+  {
+    "source": "channel",
+    "target": "Channel"
+  },
+  {
+    "source": "session",
+    "target": "Session"
+  },
+  {
+    "source": "provider",
+    "target": "Provider"
+  },
+  {
+    "source": "model",
+    "target": "Model"
+  },
+  {
+    "source": "tool",
+    "target": "Tool"
+  },
+  {
+    "source": "CLI",
+    "target": "CLI"
+  },
+  {
+    "source": "install sanity",
+    "target": "설치 무결성 검사"
+  },
+  {
+    "source": "get unstuck",
+    "target": "문제 해결"
+  },
+  {
+    "source": "troubleshooting",
+    "target": "Troubleshooting"
+  },
+  {
+    "source": "FAQ",
+    "target": "FAQ"
+  },
+  {
+    "source": "onboarding",
+    "target": "Onboarding"
+  },
+  {
+    "source": "Onboarding",
+    "target": "Onboarding"
+  },
+  {
+    "source": "wizard",
+    "target": "Wizard"
+  },
+  {
+    "source": "environment variables",
+    "target": "환경 변수"
+  },
+  {
+    "source": "environment variable",
+    "target": "환경 변수"
+  },
+  {
+    "source": "env vars",
+    "target": "환경 변수"
+  },
+  {
+    "source": "env var",
+    "target": "환경 변수"
+  },
+  {
+    "source": "node",
+    "target": "Node"
+  },
+  {
+    "source": "plugin",
+    "target": "Plugin"
+  },
+  {
+    "source": "streaming",
+    "target": "Streaming"
+  },
+  {
+    "source": "webhook",
+    "target": "Webhook"
+  },
+  {
+    "source": "dashboard",
+    "target": "Dashboard"
+  },
+  {
+    "source": "workspace",
+    "target": "Workspace"
+  }
+]
