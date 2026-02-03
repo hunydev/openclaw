@@ -5,7 +5,7 @@
   },
   {
     "source": "Gateway",
-    "target": "게이트웨이"
+    "target": "Gateway"
   },
   {
     "source": "Pi",
@@ -17,15 +17,15 @@
   },
   {
     "source": "Skills config",
-    "target": "Skills 설정"
+    "target": "Skills config"
   },
   {
     "source": "Skills Config",
-    "target": "Skills 설정"
+    "target": "Skills Config"
   },
   {
     "source": "local loopback",
-    "target": "로컬 루프백"
+    "target": "local loopback"
   },
   {
     "source": "Tailscale",
@@ -49,11 +49,11 @@
   },
   {
     "source": "sandboxed",
-    "target": "샌드박스"
+    "target": "Sandbox"
   },
   {
     "source": "Sandboxed",
-    "target": "샌드박스"
+    "target": "Sandbox"
   },
   {
     "source": "Auth: where it lives (important)",
@@ -61,27 +61,27 @@
   },
   {
     "source": "agent",
-    "target": "에이전트"
+    "target": "Agent"
   },
   {
     "source": "channel",
-    "target": "채널"
+    "target": "Channel"
   },
   {
     "source": "session",
-    "target": "세션"
+    "target": "Session"
   },
   {
     "source": "provider",
-    "target": "프로바이더"
+    "target": "Provider"
   },
   {
     "source": "model",
-    "target": "모델"
+    "target": "Model"
   },
   {
     "source": "tool",
-    "target": "도구"
+    "target": "Tool"
   },
   {
     "source": "CLI",
@@ -97,23 +97,23 @@
   },
   {
     "source": "troubleshooting",
-    "target": "문제 해결"
+    "target": "Troubleshooting"
   },
   {
     "source": "FAQ",
-    "target": "자주 묻는 질문"
+    "target": "FAQ"
   },
   {
     "source": "onboarding",
-    "target": "온보딩"
+    "target": "Onboarding"
   },
   {
     "source": "Onboarding",
-    "target": "온보딩"
+    "target": "Onboarding"
   },
   {
     "source": "wizard",
-    "target": "마법사"
+    "target": "Wizard"
   },
   {
     "source": "environment variables",
@@ -130,5 +130,29 @@
   {
     "source": "env var",
     "target": "환경 변수"
+  },
+  {
+    "source": "node",
+    "target": "Node"
+  },
+  {
+    "source": "plugin",
+    "target": "Plugin"
+  },
+  {
+    "source": "streaming",
+    "target": "Streaming"
+  },
+  {
+    "source": "webhook",
+    "target": "Webhook"
+  },
+  {
+    "source": "dashboard",
+    "target": "Dashboard"
+  },
+  {
+    "source": "workspace",
+    "target": "Workspace"
   }
 ]
