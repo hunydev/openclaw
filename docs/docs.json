@@ -16,6 +16,10 @@
       "url": "/zh-CN"
     },
     {
+      "name": "한국어",
+      "url": "/ko-KR"
+    },
+    {
       "name": "GitHub",
       "url": "https://github.com/openclaw/openclaw"
     },
@@ -1469,6 +1473,17 @@
               "zh-CN/reference/templates/SOUL",
               "zh-CN/reference/templates/TOOLS",
               "zh-CN/reference/templates/USER"
+            ]
+          }
+        ]
+      },
+      {
+        "language": "ko",
+        "groups": [
+          {
+            "group": "Start Here",
+            "pages": [
+              "ko-KR/index"
             ]
           }
         ]
